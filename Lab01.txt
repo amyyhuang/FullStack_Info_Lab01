@@ -1,0 +1,26 @@
+1.​​Change Directory
+cd
+
+2.​​Create a Directory
+mkdir MyDirectory
+
+3.​​Rename a Directory
+mv ~/Desktop/MyFile.rtf ~/Desktop/MyFile-old.rtf
+
+4.​​List the contents of a directory
+ls
+
+5.​​Move a file to a new location
+mv ~/Desktop/MyFolder /Volumes/Backup
+
+6.​​Copy a file to a new location
+cp ~/Desktop/*.rtf ~/Documents
+
+7.​​Search for a string in a file
+findstr "word" file.txt
+
+8.​​Access the shell of a remote machine
+ssh
+
+9.​​Remove a directory folder
+rmdir
